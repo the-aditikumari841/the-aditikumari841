@@ -1,10 +1,10 @@
 Hi 👋 My name is Aditi Kumari
 =============================
 
-Software Engineer
+
 -----------------
 
-*   🌍  I'm based in India
+*   🌍  I'm a Software Developer based in India
 *   ✉️  Email me at [aditikumari8421@gmail.com](mailto:aditikumari8421@gmail.com)
 *   🧠  I'm learning JavaScript and React.
 *   ⚡  I love reading and painting.
