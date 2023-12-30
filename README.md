@@ -5,7 +5,7 @@ Software Engineer
 -----------------
 
 *   🌍  I'm based in India
-*   ✉️  You can contact me at [aditikumari8421@gmail.com](mailto:aditikumari8421@gmail.com)
+*   ✉️  Email me at [aditikumari8421@gmail.com](mailto:aditikumari8421@gmail.com)
 *   🧠  I'm learning JavaScript and React.
 *   ⚡  I love reading and painting.
   
